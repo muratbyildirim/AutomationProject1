@@ -1,11 +1,11 @@
 package gitHubPratice;
 
-public class Hello {
+public class CommitPractice {
 
     public static void main(String[] args) {
 
         System.out.println("Hello");
-        System.out.println("Commit and Push practice");
+        System.out.println("Commit practice");
 
     }
 
